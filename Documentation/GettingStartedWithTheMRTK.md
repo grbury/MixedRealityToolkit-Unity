@@ -27,6 +27,7 @@ If you are new to MRTK, or MR development, we recommend you check out the [Getti
 
 Mixed Reality Toolkit is now available for download on NuGet.org, for details see [MRTK NuGet Package](MRTKNuGetPackage.md).
 
+
 ### Get the latest MRTK Unity packages
 
 1. Go to the  [MRTK release page](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases).
